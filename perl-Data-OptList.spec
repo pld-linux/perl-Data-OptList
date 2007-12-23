@@ -8,13 +8,13 @@
 Summary:	Data::OptList - parse and validate simple name/value option pairs
 Summary(pl):	Data::OptList - analiza i sprawdzanie poprawności prostych par opcji nazwa/wartość
 Name:		perl-Data-OptList
-Version:	0.101
+Version:	0.103
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Data/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	6e9bb994a8716112a78c1306261f4164
+# Source0-md5:	1fd9532ce9bbe2e8227fa4dbe860403c
 URL:		http://search.cpan.org/dist/Data-OptList/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
