@@ -28,7 +28,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Data::OptList simplifies storing name/value pairs.
 
-%description -l pl
+%description -l pl.UTF-8
 Data::OptList upraszcza zapisywanie par nazwa/wartość.
 
 %prep
