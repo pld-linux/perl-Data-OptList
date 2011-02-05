@@ -6,7 +6,7 @@
 %define	pdir	Data
 %define	pnam	OptList
 Summary:	Data::OptList - parse and validate simple name/value option pairs
-Summary(pl):	Data::OptList - analiza i sprawdzanie poprawności prostych par opcji nazwa/wartość
+Summary(pl.UTF-8):	Data::OptList - analiza i sprawdzanie poprawności prostych par opcji nazwa/wartość
 Name:		perl-Data-OptList
 Version:	0.104
 Release:	1
