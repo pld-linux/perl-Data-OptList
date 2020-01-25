@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Data
 %define	pnam	OptList
 Summary:	Data::OptList - parse and validate simple name/value option pairs
