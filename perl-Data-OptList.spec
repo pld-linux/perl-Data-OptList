@@ -12,9 +12,9 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Data/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	https://www.cpan.org/modules/by-module/Data/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	d63ec5d446eff1aaa5ba92bc13a52b77
-URL:		https://metacpan.org/release/Data-OptList
+URL:		https://metacpan.org/dist/Data-OptList
 BuildRequires:	perl-ExtUtils-MakeMaker >= 6.78
 BuildRequires:	perl-devel >= 1:5.12.0
 BuildRequires:	rpm-perlprov >= 4.1-13
